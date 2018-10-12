@@ -1,5 +1,5 @@
 # hello-world
 My repository
 
-my name is sam
-
+My name is sam
+I have two dogs
